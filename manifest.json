@@ -1,0 +1,13 @@
+{
+  "display_name": "柏宝绘 · 划线出图",
+  "loading_order": 110,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Thea",
+  "version": "0.2.1",
+  "homePage": "",
+  "auto_update": false,
+  "minimum_client_version": "1.12.13"
+}
